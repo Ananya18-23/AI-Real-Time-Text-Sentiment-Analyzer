@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![NLTK](https://img.shields.io/badge/NLTK-VADER-green.svg?style=for-the-badge)](https://www.nltk.org)
-[![License-MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org)
 
 An advanced, production-ready **Natural Language Processing (NLP)** web application designed to break down textual human emotions into actionable metrics. Powered by **NLTK's VADER (Valence Aware Dictionary and Sentiment Reasoner)** engine and styled with a professional, reactive **Streamlit** dashboard.
 
